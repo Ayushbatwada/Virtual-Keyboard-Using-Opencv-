@@ -1,0 +1,1 @@
+I have made a VIRTUAL KEYBOARD with the help of python and opencv, which uses pc's webcam to capture the frames and used hand detection so that one can use his/her finger to give input through a virtual keyboad that can be seen in pc's screen
